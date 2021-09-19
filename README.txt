@@ -1,0 +1,1 @@
+This is a website for my photography -- learning web development through this project.
